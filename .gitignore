@@ -1,0 +1,35 @@
+# Arduino build files
+*.elf
+*.bin
+*.hex
+*.eep
+*.map
+*.d
+*.o
+
+# Arduino IDE specific
+*.ino.*
+*.ino.cpp
+*.cpp.d
+
+# PlatformIO
+.pio
+.pioenvs
+.piolibdeps
+.vscode/.browse.c_cpp.db*
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Backup files
+*.bak
+*.swp
+*.tmp
+
+# Arduino cache
+*.a
+*.dep
+*.obj
