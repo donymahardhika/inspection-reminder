@@ -22,3 +22,9 @@ Required libraries to install:
 - ESP8266WebServer
 - EEPROM
 - SoftwareSerial
+
+✅ How it Works
+1. When powered on, plays the last recipe before shutdown
+2. Plays Track 001 through Track 004 with a delay between tracks
+3. Tracks 005 and 006 are for breaks and will play when the delay interval is reached
+4. After finishing Track 006, it will return to step 2
