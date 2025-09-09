@@ -14,6 +14,10 @@ This project uses a NodeMCU ESP8266 and a DFPlayer Mini to help standardize and 
 - MicroSD Card (containing MP3 audio files)
 - 5V Power Supply
 
+⚙️ Wiring
+
+<img width="1169" height="827" alt="inspection_reminder" src="https://github.com/user-attachments/assets/97d1112b-6127-4144-a52d-290e4ef66b45" /><br>
+
 💻 Software & Libraries
 Arduino IDE
 Required libraries to install:
